@@ -92,21 +92,12 @@ If you’d like to see concrete examples, check my pinned repositories for noteb
 
 ---
 
-## Tips to improve this README (quick wins you can implement)
-- Add 2–4 highlighted projects with real links and short outcomes (I can help draft them from your repos)
-- Add a “Selected coursework” list with exact course names from your economics degree
-- Add badges (languages, tooling, open-to-work) and a small professional photo or banner
-- Provide direct links to live demos or notebooks (GitHub, Streamlit, Binder, Colab)
-- Add a short French-only pitch to attract francophone recruiters
+## Projects
+-Project Youtube:(https://github.com/isabela-leal/proyecto-03-youtube)
+-Project Car price prediction: (https://github.com/isabela-leal/project-04-car-price-prediction)
 
 ---
 
-## How to use this repo / Comment utiliser ce repo
-- Pin the repos you want recruiters to see (projects, notebooks, deployed apps).
-- Keep README updated with up-to-date contact info and live links.
-- Add short README files in each project repo with a quick start, data description and key results.
-
----
 
 Thank you for visiting — merci de votre visite!  
-If you want, I can: 1) flesh out the highlighted projects directly from your repos, 2) generate concise project descriptions for each pinned repo, or 3) create a short French-only pitch tailored for Geneva recruiters. Tell me which one you want and share the repo links.
+
