@@ -32,39 +32,6 @@ Basée à Genève, je recherche des postes junior (Data Scientist, ML Engineer, 
 - Academic Data Science Bootcamp — hands-on projects using Python, notebooks, visualization and ML pipelines.
 - Degree in Economics — coursework in statistics, econometrics and economic analysis. (Tip: add specific course names and notable projects/grades here.)
 
-Consejo / Conseil: link any notebooks, dashboards or reports from your bootcamp or university projects — demonstrable work attracts recruiters.
-
----
-
-## Selected projects — Projets sélectionnés
-For each project below, replace placeholders with real links and short outcomes.
-
-- Interactive Dashboard — Retail / Public dataset analysis  
-  Tech: Python, Streamlit, SQL, Power BI  
-  What I did: Data cleaning, EDA, built interactive filters & KPIs, deployed Streamlit app  
-  Outcome: Identified X key patterns and created an interactive dashboard for non-technical stakeholders  
-  Link: (add notebook / demo / repo)
-
-- End-to-end Notebook — Forecasting / Predictive model  
-  Tech: Python, scikit-learn, pandas, Jupyter  
-  What I did: Ingested data → feature engineering → model training → evaluation → interpretation  
-  Outcome: Achieved Y performance (RMSE / accuracy) and documented assumptions & limitations  
-  Link: (add notebook / repo)
-
-- Deployed Mini-App — Model demo or visualization  
-  Tech: Streamlit / Cloud deploy (Vercel / Heroku / Cloud)  
-  What I did: Packaged model + UI, set up basic CI/CD and hosting  
-  Outcome: Live demo for interviews / portfolio  
-  Link: (add demo URL)
-
-Project template you can copy for each repo:
-- Project title — one-line summary  
-  Tech: Python, Jupyter, SQL, Streamlit, Power BI  
-  What I did:
-  - Bullet: data cleaning / EDA / modeling / dashboard / deployment
-  Outcome: short measurable result or learning  
-  Link: repository / notebook / demo
-
 ---
 
 ## What I can bring — Ce que j’apporte
@@ -86,7 +53,7 @@ Project template you can copy for each repo:
 - GitHub: https://github.com/isabela-leal
 - LinkedIn: (https://www.linkedin.com/in/isabela-leal-gaviria-6685bb35a)
 - Email: (i.lealgaviria@gmail.com)
-- Languages: English, Spanish (native), French (B1)
+- Languages: English(advance), Spanish (native), French (B1)
 
 If you’d like to see concrete examples, check my pinned repositories for notebooks, dashboards and deploys. I’m happy to share additional context or walk through any project during an interview.
 
